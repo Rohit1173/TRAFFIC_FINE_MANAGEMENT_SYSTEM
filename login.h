@@ -1,6 +1,6 @@
 #ifndef __log
 #define __log
-
+//ldflggl
 #include <iostream>
 using std::string;
 
