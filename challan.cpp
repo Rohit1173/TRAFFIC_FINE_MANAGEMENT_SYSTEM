@@ -36,6 +36,7 @@ namespace project
      cout<<".                     ."<<endl;
      cout<<".                     ."<<endl;
      cout<<".                     ."<<endl;
+     cout<<".                     ."<<endl;
      cout<<"......................."<<endl<<endl;
  }
  void Challan::clear_penalties(){
